@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "df84da9c3c5996dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ff0b2108d77ee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4196ee035540d856",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attacks/Images/1/1.png"
+              },
+              "icon": "lucide-image",
+              "title": "1"
+            }
+          },
+          {
+            "id": "aac25a292135fd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "attacks/23- Weak session ids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23- Weak session ids"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b11e15510ecad51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4329b809c095f4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4e08beea387bea0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c927031de589b8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a49227706442eca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "911a6201e81c594a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d4d2627fa00472",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a65bc65984faa42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "attacks/23- Weak session ids.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 23- Weak session ids"
+            }
+          },
+          {
+            "id": "d6f212b288a50ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "attacks/23- Weak session ids.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 23- Weak session ids"
+            }
+          },
+          {
+            "id": "79c2ecba1e310b34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56c000d6d1dd05ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "attacks/23- Weak session ids.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 23- Weak session ids"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aac25a292135fd19",
+  "lastOpenFiles": [
+    "attacks/XSS Injection.md",
+    "attacks/23- Weak session ids.md",
+    "attacks/22- User enumeration.md",
+    "attacks/Security A long the way.md",
+    "attacks/test.md",
+    "attacks/21- Unencrypted communication.md",
+    "attacks/21- Toxic Dependecies.md",
+    "attacks/20- Ssl stripting.md",
+    "attacks/19- Sql injection.md",
+    "attacks/18- Session fixation.md",
+    "attacks/17- Security Misconfiguration.md",
+    "attacks/16- Regex injection.md",
+    "attacks/15- Privelage escalation.md",
+    "attacks/14- Permission Policy header.md",
+    "attacks/13- Password mismanagement.md",
+    "attacks/12-Insecure design.md",
+    "attacks/11-Information Leakage.md",
+    "attacks/10-host header poisonning.md",
+    "attacks/9-dns poisoning.md",
+    "attacks/8-Directory Traversal.md",
+    "attacks/7-denial of service attack.md",
+    "attacks/6-CSP Violation Reports.md",
+    "attacks/Datadog for monitoring and security.md",
+    "attacks/5-Cross-Site Request Forgery (CSRF).md",
+    "attacks/4-cross site scripting.md",
+    "attacks/3-Clickjacking.md",
+    "attacks/Images/1/6.png",
+    "attacks/Images/1/12.png",
+    "attacks/Images/1/11.png",
+    "attacks/Images/1/10.png",
+    "attacks/Images/1/9.png",
+    "attacks/Images/1/8.png",
+    "attacks/Images/1/7.png",
+    "attacks/Images/2",
+    "attacks/Images/1/2.png",
+    "attacks/Images/1/3.png",
+    "attacks/Images/1/4.png",
+    "attacks/Images/1",
+    "static/attacks/images",
+    "static/attacks",
+    "static"
+  ]
+}
