@@ -177,4 +177,4 @@ else:
                     st.rerun()
 
     st.markdown("---")
-    st.caption("© 2025 Your Name – Intro to Cybersecurity Demo")
+    st.caption("© 2025 Fatimaezzahrae Taouil Strawberry404 – Intro to Cybersecurity Demo")
