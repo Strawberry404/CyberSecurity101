@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Authentication security.md",
+                "file": "18- Session fixation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Authentication security"
+              "title": "18- Session fixation"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "455c0aabfe0c6d32",
   "lastOpenFiles": [
+    "14- Permission Policy header.md",
+    "10-host header poisonning.md",
+    "1.Authentication security.md",
     "CyberSecurity Funds.md",
     "Untitled.md",
     "23- Weak session ids.md",
@@ -183,19 +186,16 @@
     "16- Regex injection.md",
     "16-regex injection.md",
     "15- Privelage escalation.md",
-    "14- Permission Policy header.md",
     "13- Password mismanagement.md",
     "12-Insecure design.md",
     "Insecure design.md",
     "11-Information Leakage.md",
-    "10-host header poisonning.md",
     "9-dns poisoning.md",
     "8-Directory Traversal.md",
     "8Directory Traversal.md",
     "7-denial of service attack.md",
     "6-CSP Violation Reports.md",
     "5-Cross-Site Request Forgery (CSRF).md",
-    "4-cross site scripting.md",
     "Images/1/12.png",
     "Images/1/11.png",
     "Images/1/10.png",
